@@ -1,2 +1,2 @@
 # l2k
-Lineage server in Kotlin language
+LineageII Interlude server in Kotlin language
