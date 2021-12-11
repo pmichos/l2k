@@ -1,2 +1,2 @@
 # l2k
-LineageII Interlude server in Kotlin language
+LineageII High-Five (H5) server in Kotlin language
