@@ -14,3 +14,6 @@ LineageII High-Five (H5) server in Kotlin language
 - extract L2K-1.0-SNAPSHOT.zip
 - open the folder and go to bin folder
 - run L2K.bat file
+
+# Test
+- Use for now the Simple TCP socket tester in android device
